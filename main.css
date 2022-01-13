@@ -62,6 +62,9 @@ body {
     box-sizing: border-box;
     overflow: hidden;
 }
+.hidefullscreen:fullscreen {
+    display: none;
+}
 
 .titlebar > .logo {
     height: 44px;
