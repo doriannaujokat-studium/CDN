@@ -52,6 +52,8 @@ body {
     user-select: none;
     box-sizing: border-box;
     overflow: hidden;
+    padding: 5px;
+    box-sizing: border-box;
 }
 .titlebar > .logo {
     height: 44px;
