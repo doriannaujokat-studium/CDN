@@ -1,13 +1,13 @@
 :root {
     --color-brand: #89ba17;
     --color-brand-text: #ffffff;
-    --color-background: #202020;
+    --color-background: #1b1c15;
     --color-text: #ffffff;
     --color-shade: #424242;
 }
 @media (prefers-color-scheme: light) {
     :root {
-        --color-background: #ffffff;
+        --color-background: #e7e7e7;
         --color-text: #000000;
         --color-shade: #b5b4b4;
     }
